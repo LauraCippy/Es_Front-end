@@ -1,0 +1,70 @@
+body {
+    background-image: url(./recensione_oppo/banner.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+
+     margin: 0;
+     padding: 0;
+ 
+     font-family: 'Ysabeau Infant', sans-serif;
+ 
+ }
+
+h1 {
+    font-family:'Montserrat', sans-serif; 
+    font-size: 2.50rem;
+    color: #050f9e;
+}
+
+h2 {
+  
+    font-size: 1.75rem;
+    font-family: 'Exo 2',sans-serif;
+    scroll-margin-top: 1.75rem;
+   color: #050f9e;
+}
+
+.articleFooter p {
+   
+    font-style:inherit;
+    text-align: right;}
+
+    .wrapper {
+      
+        width:75%;
+        margin:0 auto;
+
+        background-color: #eee;
+    
+        padding: 1rem;
+    }
+
+    img {
+ 
+        width: 100%;
+        height: auto;
+    
+    }
+
+    figure {
+        margin: 0;
+        background:#ffffff;
+       padding: 1rem;
+       border:1px solid #050f9e;
+    }
+
+    ul{
+
+     list-style-type: none;
+
+    }
+
+    a:link, a:visited{
+        text-decoration: none;
+        color: #050f9e;
+        background-color: transparent;
+    }
+
+

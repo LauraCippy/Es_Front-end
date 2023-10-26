@@ -1,0 +1,49 @@
+body{
+     background-color: black; background-image: url(starwars-90122.jpg); 
+    background-size: cover;
+
+}
+h1{
+    color: goldenrod; font-weight: bolder; font-style: oblique;  text-align: center; 
+}
+h2 {
+    color: goldenrod; font-weight: bold; font-style:oblique ; text-align: initial;
+} 
+p { 
+    color: rgb(255, 255, 255); font-size: 18px
+}
+.D-3BO { 
+    color: cyan;
+}
+.morte_nera {
+    color: darkred;
+}
+.darth_fener {
+    color: crimson;
+}
+.leila {
+    color: darkorchid;
+}
+
+.ufficiale_imperiale{
+    color: beige;
+}
+.ribelle{
+    color: bisque;
+}
+.I_soldato{
+    color: burlywood;
+}
+.II_soldato{
+    color: chocolate;
+}
+.capo_pilota{
+    color: azure;
+}
+.capitano{
+    color: blanchedalmond;
+}
+.comandante{
+    color: coral;
+}
+.II_ufficiale{ color: cornflowerblue;}
